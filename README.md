@@ -83,3 +83,4 @@ python manage.py runserver
 </table>
 
 
+#For detailed - information do visit our blogpost https://medium.com/@ajishparavind13/deploying-a-django-chatroom-app-on-aws-step-by-step-guide-843951ee90ab
